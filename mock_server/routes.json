@@ -1,0 +1,4 @@
+{
+  "/api/v1/ads": "/ads",
+  "/api/v1/ads_metrics": "/ads_metrics"
+}

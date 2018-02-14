@@ -1,0 +1,20 @@
+import keyMirror from 'key-mirror'
+
+export default keyMirror({
+  GET_AD_REQUEST: null,
+  GET_AD_SUCCESS: null,
+  GET_AD_FAILURE: null,
+
+  GET_AD_METRIC_REQUEST: null,
+  GET_AD_METRIC_SUCCESS: null,
+  GET_AD_METRIC_FAILURE: null,
+
+  GET_AD_COLUMN_NAMES_REQUEST: null,
+  GET_AD_COLUMN_NAMES_SUCCESS: null,
+  GET_AD_COLUMN_NAMES_FAILURE: null,
+
+  GET_AD_METRIC_COLUMN_NAMES_REQUEST: null,
+  GET_AD_METRIC_COLUMN_NAMES_SUCCESS: null,
+  GET_AD_METRIC_COLUMN_NAMES_FAILURE: null,
+
+});

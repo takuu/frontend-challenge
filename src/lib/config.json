@@ -1,0 +1,7 @@
+{
+  "BASE_URL": "http://localhost:1337/api/v1",
+  "DATA_TABLE_SETTINGS": {
+    "STATIC_COLUMNS": ["name"],
+    "DEFAULT_WIDTH": "100px"
+  }
+}
